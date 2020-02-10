@@ -1,0 +1,3 @@
+﻿  testLogitechDlg.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  testLogitech.vcxproj -> C:\Users\patri\Downloads\testLogitech(1)\testLogitech\Debug\testLogitech.exe
